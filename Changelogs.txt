@@ -1,0 +1,4 @@
+Update v1 (18th June 2023):
+* Added bot mode.
+* Fixed Ui bugs.
+* Changed Ui colors.
